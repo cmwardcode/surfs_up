@@ -22,7 +22,7 @@ June: 75 degrees F
 December: 71 degrees F
 - The lowest temperature in June is 64 degrees F and December is 56 degrees F a total variation of 8 degrees.
 - The max has the smallest variation between the two months with a 2 degree difference and both in the 80s. However, the difference between the max temperature and the lowest temperature varies on average ~24 degrees during June and December. 
-##Summary
+## Summary
 Overall, the weather in June and December is conducive to the proposed business and reflects sustainability. With this being said I would not rely solely on these two sources of data to make a final decision of sustainability in weather to support the business. I suggest further exploring climatology before making a decision. 
 ### Queries
 1.	The next query I would pursue is summary statistics of all months and create a visualization to identify trends and variation.
