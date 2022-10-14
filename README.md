@@ -1,4 +1,4 @@
-#Surfs Up Weather Analysis
+# Surfs Up Weather Analysis
 ## Overview of Analysis
 Client requested temperature data for Oahu, Hawaii for the months of June and December to ensure sustainability year-round before pursuing opening their business. 
 Goal: Advanced Data Storage and Retrieval with `Jupyter Notebook`, `SQLite`, and `SQLALchemy`.
